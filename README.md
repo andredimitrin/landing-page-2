@@ -8,15 +8,14 @@ Projeto feito como treinamento de landing page.
 
 # stacks
 
-HTML5
+HTML5, CSS3, JavaScipt
 
-![](html5-original.svg)
 
-CSS3
 
-![](css3-original.svg)
 
-JavaScipt
 
-![](javascript-original.svg)
+
+
+
+
 
